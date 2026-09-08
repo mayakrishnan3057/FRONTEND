@@ -1,0 +1,80 @@
+
+.box{
+    
+    color: rgb(236, 137, 14);
+    padding: 20px;
+    margin: 20px;
+    width: 200px;
+    border-radius: 20px;
+    display: flex;
+    gap: 30px;
+   
+   
+
+    
+}
+
+.picone{
+     background-color: rgb(121, 224, 190);
+    padding: 30px;
+    
+    width: 150px;
+    text-align: center;
+    border-radius: 20px;
+}
+
+.picone > img{
+    width: 150px;
+     border-radius: 20px;
+    
+   
+
+}
+
+
+.pictwo{
+     background-color: rgb(86, 185, 152);
+    
+    padding: 20px;
+    width: 150px;
+    text-align: center;
+     border-radius: 20px;
+}
+
+.pictwo > img{
+    width: 150px;
+     border-radius: 20px;
+   
+
+}
+
+
+.picthree{
+     background-color: rgb(86, 185, 152);
+    padding: 20px;
+    width: 150px;
+    text-align: center;
+     border-radius: 20px;
+}
+
+.picthree > img{
+    width: 150px;
+     border-radius: 20px;
+   
+
+}
+
+.picfore{
+     background-color: rgb(86, 185, 152);
+    
+    padding: 20px;
+    width: 150px;
+    text-align: center;
+     border-radius: 20px;
+}
+
+.picfore > img{
+    width: 150px;
+    border-radius: 20px;
+
+}
