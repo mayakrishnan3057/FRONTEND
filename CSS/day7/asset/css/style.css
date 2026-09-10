@@ -1,0 +1,56 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+a{
+    text-decoration: none;
+}
+
+.design{
+    background-color: antiquewhite;
+}
+
+.cart{
+    background-color: rgb(4, 46, 46);
+    color: aliceblue;
+    width: 300px;
+    border: none;
+    border-radius: 40px;
+   
+   
+
+
+}
+
+.img{
+    background-color: rgb(80, 7, 214);
+   
+    padding: 40px;
+    
+}
+
+.boxone{
+    background-color: azure;
+    color: black;
+    padding: 20px;
+    margin: none;
+
+}
+
+.emoj{
+    background-color: rgb(175, 152, 197);
+    color: blueviolet;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+  
+}
