@@ -15,42 +15,43 @@ a{
     text-decoration: none;
 }
 
-.design{
-    background-color: antiquewhite;
-}
 
-.cart{
-    background-color: rgb(4, 46, 46);
-    color: aliceblue;
-    width: 300px;
-    border: none;
-    border-radius: 40px;
-   
-   
-
-
-}
-
-.img{
-    background-color: rgb(80, 7, 214);
-   
-    padding: 40px;
-    
-}
-
-.boxone{
-    background-color: azure;
-    color: black;
+ .card{
+    background-color: rgb(97, 104, 104);
     padding: 20px;
-    margin: none;
-
-}
+    width: 1000px;
+   
+    display: flex;
+    gap: 30px;
+    
+ }  
+ .box{
+    background-color: antiquewhite;
+    padding: 20px;
+ }
 
 .emoj{
-    background-color: rgb(175, 152, 197);
-    color: blueviolet;
-    padding: 10px;
+    background-color: rgb(18, 19, 18);
+    color: azure;
+    padding: 3px;
+    border: none;
+    border-radius: 5px;
+    position: relative;
+    top: 5px;
+}
+
+.box > h2{
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   position: relative;
+   top: 10px;
+}
+    
+   
+
+
+.paint{
+    width: 250px;
+    height: 250px;
     border: none;
     border-radius: 10px;
-  
 }
