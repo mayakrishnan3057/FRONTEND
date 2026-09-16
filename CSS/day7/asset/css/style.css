@@ -18,16 +18,20 @@ a{
 
  .card{
     background-color: rgb(97, 104, 104);
-    padding: 20px;
+    padding: 40px;
     width: 1000px;
    
     display: flex;
     gap: 30px;
     
  }  
+ 
+ 
  .box{
     background-color: antiquewhite;
     padding: 20px;
+    
+    
  }
 
 .emoj{
