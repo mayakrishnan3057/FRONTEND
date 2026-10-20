@@ -1,53 +1,31 @@
-let numbers = [10, 20, 30, 40, 50];
+let heading = document.getElementById("title");
 
-let doubleNumbers = numbers.map((num) => {
-    return num * 2;
-});
+heading.innerText = "Welcome to JavaScript";
 
-console.log(doubleNumbers);
+heading.style.color = "blue";
 
-
-let numbers = [10, 15, 20, 25, 30, 35, 40];
-
-let evenNumbers = numbers.filter((num) => {
-    return num % 2 === 0;
-});
-
-console.log(evenNumbers);
+heading.style.fontSize = "30px";
 
 
-let numbers = [10, 25, 35, 50, 60];
+let paragraphs = document.getElementsByClassName("para");
 
-let result = numbers.find((num) => {
-    return num > 30;
-});
+paragraphs[0].style.color = "red";
 
-console.log(result);
+paragraphs[1].style.backgroundColor = "yellow";
 
-
-
-let students = [
-    { id: 1, name: "Arun", mark: 75 },
-    { id: 2, name: "Priya", mark: 90 },
-    { id: 3, name: "Kumar", mark: 65 }
-];
-
-let result = students.find((student) => {
-    return student.id === 2;
-});
-
-console.log(result);
+paragraphs[2].style.fontSize = "25px";
 
 
-let employees = [
-    { name: "Arun", salary: 25000 },
-    { name: "Priya", salary: 45000 },
-    { name: "Kumar", salary: 30000 },
-    { name: "Ravi", salary: 50000 }
-];
+let username = document.getElementById("username");
 
-let result = employees.filter((employee) => {
-    return employee.salary >= 30000;
-});
+username.value = "Arun";
 
-console.log(result);
+let email = document.querySelector(".email");
+
+email.value = "arun@gmail.com";
+
+username.style.backgroundColor = "lightblue";
+
+let submitBtn = document.getElementById("submitBtn");
+
+submitBtn.disabled = true;
