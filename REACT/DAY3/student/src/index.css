@@ -1,0 +1,37 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.mainNav{
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+  padding: 10px;
+  background-color: rgb(139, 145, 145);
+  height: 70px;
+  
+}
+.logo{
+  background-color: white ;
+  padding: 10px;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  border-radius: 200px;
+}
+.nav{
+  display: flex;
+  gap: 20px;
+  padding: 20px;
+  align-items: center;
+  justify-content: center;
+
+}
+.hero{
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding: 10px;
+}
