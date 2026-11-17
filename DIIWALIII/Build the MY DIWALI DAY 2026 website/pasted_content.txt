@@ -1,0 +1,472 @@
+# BUILD A COMPLETE WEBSITE – MY DIWALI DAY 2026
+
+I want you to build a complete, fully functional, premium-quality, responsive React website called **MY DIWALI DAY 2026**.
+
+IMPORTANT: Follow every requirement below carefully. Do not skip, simplify, remove, or replace any requested feature. Do not stop after creating a design preview. Build the complete working website, test all features, fix errors, and deliver the finished project.
+
+# 1. TECHNOLOGY STACK
+
+Use:
+- React JS
+- HTML5
+- CSS3
+- JavaScript
+- Tailwind CSS
+- React Router DOM
+
+Create a properly structured React project that runs using:
+
+npm install
+npm run dev
+
+# 2. WEBSITE DESIGN
+
+The complete website must use a PREMIUM DARK & GOLD theme.
+
+Color palette:
+- Black and dark backgrounds.
+- Golden yellow.
+- Orange.
+- Warm white.
+- Golden gradients.
+
+Design style:
+- Premium and cinematic.
+- Modern and elegant.
+- Glowing Diwali lights.
+- Smooth animations.
+- Beautiful typography.
+- Glassmorphism effects.
+- Attractive hover effects.
+- Professional layouts.
+
+Make every page visually consistent.
+
+# 3. FIRST SCREEN – FULL-SCREEN DIWALI ROCKET INTRO ANIMATION
+
+Before opening the Home page, show a full-screen Diwali introduction.
+
+The screen must include:
+- Beautiful dark Diwali night background.
+- Glowing diyas.
+- Golden floating particles.
+- Animated fireworks.
+- Rockets.
+- Diwali sweets.
+- Festival decorations.
+- Beautiful festive elements.
+
+Place a large interactive rocket in the center.
+
+ROCKET ANIMATION:
+1. Show the rocket in the center.
+2. The user must ignite the rocket by clicking it.
+3. Show a fire ignition animation.
+4. The rocket must fly around the entire screen.
+5. Add realistic flying and glowing effects.
+6. The rocket must travel back toward the center.
+7. Create a large, beautiful fireworks explosion.
+8. After the explosion, smoothly transition to the Home page.
+
+Do not replace the rocket interaction with an ordinary button.
+
+Add sound effects:
+- Rocket ignition sound.
+- Rocket flying sound.
+- Fireworks explosion sound.
+
+No background music.
+
+Add a sound ON/OFF control. Sound must start only after user interaction.
+
+# 4. NAVBAR
+
+Create a sticky, responsive navigation bar.
+
+Website logo/title: MY DIWALI DAY 2026
+
+Navigation:
+1. Home
+2. About Diwali
+3. My Day
+4. Gallery
+5. Crackers
+
+Requirements:
+- Sticky navbar.
+- Active page highlighting.
+- Smooth navigation.
+- Working navigation links.
+- Responsive mobile hamburger menu.
+- Attractive hover animations.
+- Same navbar across all five pages.
+
+Add a beautiful golden Diwali diya favicon to the browser tab.
+
+# 5. HOME PAGE
+
+Create a premium animated Diwali homepage.
+
+Include:
+- Hero title: MY DIWALI DAY 2026.
+- Subtitle: One Day. Countless Memories. A Lifetime to Remember.
+- Beautiful Diwali night background.
+- Fireworks animations.
+- Flying rockets.
+- Glowing diyas.
+- Golden particles.
+- Diwali sweets.
+- Family celebration visuals.
+- Friends celebration visuals.
+- Animated festive decorations.
+- Smooth scrolling effects.
+- Attractive sections introducing my Diwali memories.
+
+Make the Home page visually impressive.
+
+# 6. ABOUT DIWALI PAGE
+
+Create a complete informative Diwali page.
+
+Write original English content covering:
+
+- What is Diwali?
+- Why do people celebrate Diwali?
+- History of Diwali.
+- Significance of Diwali.
+- Victory of light over darkness.
+- Importance of family and friendship.
+- Traditional Diwali celebrations.
+- Lighting diyas.
+- Decorating homes.
+- Sharing sweets.
+- Wearing new clothes.
+- Celebrating with fireworks.
+
+Add beautiful relevant photographs and attractive content sections.
+
+Do not use meaningless placeholder text.
+
+# 7. MY DAY PAGE – MY COMPLETE DIWALI STORY
+
+This is the MOST IMPORTANT page.
+
+Show my complete Diwali experience using a beautiful vertical timeline.
+
+Use the exact events and sequence below. Do not remove or invent any personal activities.
+
+## MORNING – 8:00 AM TO 12:00 PM
+
+**8:00 AM**
+- Woke up.
+- Brushed my teeth.
+- Had coffee.
+
+**8:30 AM**
+- Went for a haircut.
+
+**9:30 AM**
+- Returned home.
+- Applied oil to my hair.
+- Used my phone and relaxed for approximately 30 minutes.
+
+**10:30 AM**
+- Went to take a bath.
+
+**11:00 AM**
+- Finished bathing.
+- Wore my new Diwali dress.
+- Checked my outfit and enjoyed my fit check.
+- Sat with my family for breakfast.
+
+My mother prepared:
+- Idly.
+- Chicken curry.
+- Mutton liver.
+- Kesari.
+- Various homemade sweets.
+
+## AFTERNOON – 12:00 PM
+
+- Went outside to meet my friends.
+- Celebrated Diwali with my friends.
+- Burst crackers.
+- Enjoyed laughing and talking.
+- Took many photographs and videos.
+- Spent approximately two hours enjoying the celebration.
+
+## MOVIE TIME – 2:30 PM
+
+- We planned to watch a movie together.
+- Around 27 friends went to the theatre.
+- Movie name: SCENE.
+- Featuring Suriya Anna.
+- We enjoyed watching the movie together.
+
+## LUNCH – AFTER THE MOVIE
+
+Returned home and enjoyed lunch prepared by my mother.
+
+Lunch:
+- Mutton Biryani.
+- Chicken 65.
+- Onion.
+
+Display this as a beautiful food-memory section.
+
+## NIGHT – FRIENDS AND FAMILY
+
+- Went out again with friends.
+- Burst crackers and enjoyed fireworks.
+- Returned home.
+- Celebrated with my mother, father, and sister.
+- Burst more crackers with my family.
+- Took lots of beautiful family photographs.
+- Had dinner.
+- Finally went to sleep after a wonderful Diwali celebration.
+
+## TIMELINE DESIGN
+
+- Beautiful vertical timeline.
+- Display exact timings.
+- Different icons for different events.
+- Morning, breakfast, friends, movie, lunch, crackers, family, and sleep sections.
+- Relevant photographs.
+- Smooth scroll animations.
+- Alternating left/right timeline cards on desktop.
+- Single-column timeline on mobile.
+
+Make this page emotional and memorable.
+
+# 8. GALLERY PAGE
+
+Create four interactive gallery categories.
+
+Each category must contain exactly three sample photographs initially.
+
+CATEGORY 1 – MY PHOTOS
+- my-photo-1.jpg
+- my-photo-2.jpg
+- my-photo-3.jpg
+
+CATEGORY 2 – FAMILY
+- family-1.jpg
+- family-2.jpg
+- family-3.jpg
+
+CATEGORY 3 – FRIENDS
+- friends-1.jpg
+- friends-2.jpg
+- friends-3.jpg
+
+CATEGORY 4 – FOOD
+- food-1.jpg
+- food-2.jpg
+- food-3.jpg
+
+FUNCTIONALITY:
+- Show four category cards.
+- Clicking My Photos must display only My Photos.
+- Clicking Family must display only Family photos.
+- Clicking Friends must display only Friends photos.
+- Clicking Food must display only Food photos.
+- Add an All Categories option to return to the category view.
+- Add attractive hover effects.
+- Add a photo lightbox.
+- Clicking an image must open a larger view.
+- Add a working close button.
+- Make the gallery responsive.
+
+IMPORTANT:
+I will replace the sample images with my actual Diwali photographs later.
+
+Create the following folder:
+
+public/assets/images/
+
+Use the exact filenames specified above.
+
+Do not make me edit React components just to replace photographs. Keep the image paths easy to understand.
+
+# 9. CRACKERS PAGE
+
+Create a separate Diwali fireworks video gallery.
+
+Include:
+- Beautiful video cards.
+- Sample Diwali crackers videos.
+- Rocket videos.
+- Fireworks videos.
+- Video playback controls.
+- Sound support.
+- Responsive video layout.
+- Attractive hover effects.
+
+Use:
+
+public/assets/videos/
+
+Example filenames:
+- crackers-1.mp4
+- crackers-2.mp4
+- crackers-3.mp4
+
+I will replace these with my actual recorded Diwali videos.
+
+Do not autoplay videos.
+
+# 10. PAGE NAVIGATION BUTTONS
+
+Every page must have:
+- Home button.
+- Next Page button.
+
+Place these buttons neatly in the right-side corner.
+
+All buttons must work correctly.
+
+Navigation order:
+
+Home → About Diwali → My Day → Gallery → Crackers
+
+On the last page, provide a working Home and Previous Page navigation.
+
+Do not create decorative or non-functional buttons.
+
+# 11. FOOTER
+
+Create a premium dark and gold footer.
+
+Include:
+
+MY DIWALI DAY 2026
+
+Made with Love and Beautiful Memories ❤️
+
+© mayadiwali@2026
+
+# 12. EXTRA INTERACTIVE FEATURES
+
+Include:
+- Golden Diwali diya favicon.
+- Sticky navbar.
+- Smooth scrolling.
+- Smooth page transitions.
+- Mobile hamburger menu.
+- Working navigation.
+- Back-to-top button.
+- Image lightbox.
+- Gallery filtering.
+- Video playback controls.
+- Sound ON/OFF control.
+- Rocket animation.
+- Fireworks animation.
+- Floating golden particles.
+- Attractive hover effects.
+
+All interactive elements must function properly.
+
+# 13. RESPONSIVE DESIGN
+
+The website must work perfectly on:
+
+- Desktop.
+- Laptop.
+- Tablet.
+- Android mobile.
+- iPhone.
+- Small mobile screens.
+- Large screens.
+
+Requirements:
+- No horizontal overflow.
+- Responsive images.
+- Readable text.
+- Touch-friendly buttons.
+- Responsive navigation.
+- Mobile-friendly timeline.
+- Responsive photo gallery.
+- Responsive video gallery.
+- Animations optimized for mobile.
+
+# 14. PROJECT STRUCTURE
+
+Create a clean and organized React project.
+
+Suggested structure:
+
+src/
+  components/
+  pages/
+  assets/
+  styles/
+  App.jsx
+  main.jsx
+
+public/
+  assets/
+    images/
+    videos/
+  favicon.ico
+
+Include all necessary configuration files and dependencies.
+
+Use reusable components and proper React Router navigation.
+
+# 15. TESTING AND QUALITY REQUIREMENTS
+
+Before delivering the project:
+
+1. Verify that the project starts successfully.
+2. Check every page.
+3. Check all navbar links.
+4. Check Home and Next Page buttons.
+5. Check the opening rocket animation.
+6. Check sound ON/OFF.
+7. Check all four gallery categories.
+8. Check the image lightbox.
+9. Check video playback.
+10. Check mobile responsiveness.
+11. Fix console errors.
+12. Fix broken image paths and broken links.
+13. Verify all important interactions.
+
+Do not claim that a feature works unless it has actually been implemented.
+
+Do not leave empty pages, unfinished sections, or non-functional buttons.
+
+# 16. FINAL DELIVERY
+
+Deliver:
+
+- Complete React project.
+- All source files.
+- Complete styling.
+- All configurations.
+- Sample photographs.
+- Sample videos.
+- Favicon.
+- Rocket animation.
+- Sound effects.
+- All five functional pages.
+- Complete responsive design.
+- Instructions to replace my photos and videos.
+- Installation and execution instructions.
+
+If possible, provide the complete project as a ZIP file as well as the source code.
+
+# FINAL INSTRUCTION
+
+I do not want just a website mockup or a basic landing page.
+
+I want a complete, premium, interactive, fully functional Diwali memory website.
+
+Follow every requirement exactly.
+
+My personal Diwali story must remain unchanged.
+
+The final website should look beautiful, work smoothly, and feel like a real professional website.
+
+**PROJECT NAME: MY DIWALI DAY 2026**
+
+**TAGLINE: One Day. Countless Memories. A Lifetime to Remember.**

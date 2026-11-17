@@ -1,0 +1,1 @@
+export default {content:["./index.html","./src/**/*.{js,jsx}"],theme:{extend:{colors:{diwali:{gold:"#f6c453",orange:"#f28b38"}}}},plugins:[]};

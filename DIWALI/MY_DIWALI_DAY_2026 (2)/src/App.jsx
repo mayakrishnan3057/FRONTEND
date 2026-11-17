@@ -1,0 +1,7 @@
+import {BrowserRouter,Routes,Route,Navigate,useLocation} from 'react-router-dom';
+import {useEffect,useState} from 'react';
+import {SiteChrome} from './components/SiteChrome.jsx';
+import Intro from './components/Intro.jsx';
+import Home from './pages/Home.jsx'; import About from './pages/About.jsx'; import MyDay from './pages/MyDay.jsx'; import Gallery from './pages/Gallery.jsx'; import Crackers from './pages/Crackers.jsx';
+function ScrollManager(){const l=useLocation();useEffect(()=>window.scrollTo({top:0,behavior:'smooth'}),[l.pathname]);return null}
+export default function App(){const [done,setDone]=useState(()=>sessionStorage.getItem('diwali-intro-complete')==='true');const [sound,setSound]=useState(true);const finish=()=>{sessionStorage.setItem('diwali-intro-complete','true');setDone(true)};const replay=()=>{sessionStorage.removeItem('diwali-intro-complete');setDone(false)};return <BrowserRouter><ScrollManager/>{!done&&<Intro onComplete={finish} soundOn={sound} setSoundOn={setSound}/>}<SiteChrome soundOn={sound} setSoundOn={setSound} onReplayIntro={replay}><Routes><Route path="/" element={<Home/>}/><Route path="/about" element={<About/>}/><Route path="/my-day" element={<MyDay/>}/><Route path="/gallery" element={<Gallery/>}/><Route path="/crackers" element={<Crackers/>}/><Route path="*" element={<Navigate to="/" replace/>}/></Routes></SiteChrome></BrowserRouter>}
